@@ -1,0 +1,4 @@
+Heart Shape Visualization Using Parametric Equations in Turtle Graphics
+The purpose of this project is to generate a heart shape using parametric equations and turtle graphics in Python, showcasing the connection between mathematics and computer graphics.
+This Python script uses the turtle module to generate an animated pattern based on mathematical functions. It first imports the math and turtle libraries, then defines two functions, hearta(k) and heartb(k), which use trigonometric equations to calculate x and y coordinates. The script sets the turtle's speed to maximum and changes the background color to black. It then runs a loop 6,000 times, moving the turtle to calculated coordinates while repeatedly returning to the center (0,0), creating a starburst effect. The final drawing, as shown in the image, consists of numerous lines radiating from the center due to the repeated back-and-forth motion of the turtle.
+
